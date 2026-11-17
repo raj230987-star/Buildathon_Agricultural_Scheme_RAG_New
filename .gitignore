@@ -1,0 +1,25 @@
+# API secrets
+.env
+.env.*
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# FAISS databases and backups
+faiss_db/
+faiss_db_multilingual/
+faiss_db_backup/
+faiss_db_safety_backup/
+
+# Uploaded documents
+uploaded_pdfs/
+
+# Temporary files
+*.log
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml

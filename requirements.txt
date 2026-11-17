@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+numpy
+requests
+openai
+python-dotenv
